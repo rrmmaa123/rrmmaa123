@@ -130,17 +130,7 @@
     <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
 </p>
 
- ### <picture> <img src = "https://github.com/ahmedbad010/ahmedbad010/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
- /*
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-</p>
-*/
+
 <br> 
 
 ----
