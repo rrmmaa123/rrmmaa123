@@ -23,6 +23,8 @@
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
+- - 📄 more about my experiences [https://drive.google.com/drive/folders/1WUcVWsBMmdRUjEJQ3zei5sQjs80LD0m8](https://drive.google.com/drive/folders/1WUcVWsBMmdRUjEJQ3zei5sQjs80LD0m8 )
+
 <br>
 
 ## <picture> <img src="https://github.com/rrmmaa123/rrmmaa123/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
